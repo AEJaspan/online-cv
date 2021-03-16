@@ -1,2 +1,2 @@
-# online-cv
-Simple CV hosted on GitHub-pages 
+# my-cv
+Simply CV hosted on github-pages
